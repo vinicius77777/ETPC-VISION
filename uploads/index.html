@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Inspired by Tao Tajima</title>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>  
+    
+    
+    <div class="venom-transition"></div>
+    
+    <div class="background"></div>
+
+    <div class="menu-icon" onclick="toggleMenu()">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+
+    <div class="menu" id="menu"> 
+        <a href="index.html">
+            <img src="silhueta-de-icone-de-casa.png" alt="Home" title="Home">
+        </a>
+        <a href="about.html">
+            <img src="lupa.png" alt="About" title="Sobre">
+        </a>
+        <a href="works.html">
+            <img src="maleta-de-negocios.png" alt="Works" title="Portfólio">
+        </a>
+        <a href="contact.html">
+            <img src="contato.png" alt="Contact" title="Contatos">
+        </a>
+    </div>
+    
+
+    <div class="content">
+        <h1>Welcome to the Inspired Site</h1>
+        <p>An artistic approach to modern web design.</p>
+    </div>
+
+    <div class="button-container">
+    <a href="pagina_destino.html" class="custom-button" onclick="startVenomTransition(event)">
+    <span class="button-text">Avançar</span>
+    <span class="custom-arrow"></span>
+</a>
+    </a>
+    </div>
+
+
+    <div class="profile-container">
+        <!-- Ícone de bonequinho -->
+        <div class="profile-icon" id="profileIcon">
+            <img src="avatar.png" alt="Perfil" id="profileImage">
+        </div>
+
+        <!-- Menu de opções -->
+        <div class="profile-options" id="profileOptions">
+            <a href="change_profile.php">Mudar Foto de Perfil</a>
+            <a href="logout.php">Sair</a>
+        </div>
+    </div>
+
+
+ <script src="./script.js"></script>
+    
+</body>
+</html>
