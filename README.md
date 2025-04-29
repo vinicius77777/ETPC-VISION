@@ -20,9 +20,9 @@
 ✅ Integração com redes sociais para maior alcance.  
 ✅ Design responsivo para dispositivos móveis e desktops.  
 
-## 🎯 Como Rodar o Projeto
+## ❓ Como Rodar o Projeto
 
-### 🏗️ Pré-requisitos
+### 🕸️ Pré-requisitos
 Antes de iniciar, certifique-se de ter instalado:
 - **XAMPP** (ou outro servidor local com suporte a PHP e MySQL)
 - **Navegador Web**
