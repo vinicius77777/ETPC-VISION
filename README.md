@@ -1,10 +1,6 @@
 # ETPCVISION
 
-![ETPCVISION](https://via.placeholder.com/800x200.png?text=ETPCVISION)
-
 > Um site de realidade virtual inovador para apresentar a **Escola Técnica Pandiá Calógeras**, aproximando a comunidade da instituição por meio de uma experiência imersiva e interativa.
-
-## 📌 Tecnologias Utilizadas
 
 ### 💻 Frontend
 - **HTML** - Estruturação das páginas web.
